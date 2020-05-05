@@ -8,8 +8,6 @@ namespace Git_Excercise
     {
         public string Name { get; set; }
         public int Age { get; set; }
-        public string Address { get; set; }
-
-        public double Height { get; set; }
+        public string address { get; set; }
     }
 }

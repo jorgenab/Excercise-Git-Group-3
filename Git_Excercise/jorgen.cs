@@ -2,8 +2,9 @@
 
 public class Jorgen
 {
+	public int MyProperty { get; set; }
 	public Jorgen()
 	{
-		public string Name { get; set; }
-}
+		
+	}
 }
